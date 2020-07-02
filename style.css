@@ -220,12 +220,12 @@ input[type="number"]::-webkit-inner-spin-button {
 
   .guess {
     min-width: 48vw;
-    height: 100%;
+    height: 50%;
     align-items: center;
   }
 
   .guessing-area {
-    height: auto;
+    min-height: 50vh;
   }
 
   #guess {
