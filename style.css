@@ -222,7 +222,7 @@ input[type="number"]::-webkit-inner-spin-button {
   .guess {
     min-width: 48vw;
     height: 50vh;
-    align-items: center;
+    justify-content: center;
   }
   .guess input {
     height: 30%;
