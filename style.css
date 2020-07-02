@@ -156,6 +156,7 @@ header {
 input[type="number"]::-webkit-inner-spin-button {
   -webkit-appearance: none;
 }
+
 .next-round-container {
   display: flex;
 }
@@ -223,7 +224,14 @@ input[type="number"]::-webkit-inner-spin-button {
     height: 50vh;
     align-items: center;
   }
-
+  .guess input {
+    height: 30%;
+    width: 50%;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 7px;
+  }
   .guessing-area {
     min-height: 50vh;
   }
