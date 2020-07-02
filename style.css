@@ -221,6 +221,7 @@ input[type="number"]::-webkit-inner-spin-button {
   .guess {
     min-width: 48vw;
     height: 100%;
+    align-items: center;
   }
 
   .guessing-area {
@@ -230,7 +231,7 @@ input[type="number"]::-webkit-inner-spin-button {
   #guess {
     padding: 10px;
     height: 20%;
-    width: 80%;
+    width: 100%;
   }
 
   #restart,
