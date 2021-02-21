@@ -1,2 +1,2 @@
 # NumberGuesser
-Number Guesser is a web projects which allow you to compete with the computer to guess random number.
+Number Guesser is a web project which allows you to compete with the computer to guess the random.
